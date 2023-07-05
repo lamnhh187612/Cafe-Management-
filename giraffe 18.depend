@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1643484971 source:c:\users\admin\desktop\giraffe 18\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<fstream>
+	<string>
+	<time.h>
+
